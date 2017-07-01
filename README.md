@@ -1,1 +1,1 @@
-gm-04-night-sky
+https://rawgit.com/lairiel/gm-04-night-sky/master/index.html
